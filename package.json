@@ -1,0 +1,11 @@
+{
+    "name": "botsio-server",
+    "version": "0.1.0",
+    "author": "Jason Nguyen",
+    "dependencies": {
+        "typescript": "^4.5.5"
+    },
+    "scripts": {
+        "start": "tsc && node build/main.js"
+    }
+}
